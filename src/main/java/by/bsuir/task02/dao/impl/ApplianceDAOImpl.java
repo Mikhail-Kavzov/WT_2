@@ -12,6 +12,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
+/**
+ * Implementation of ApplianceDAO
+ */
 public class ApplianceDAOImpl implements ApplianceDAO {
 
 	private static final String path = "src/main/resources/appliances_db.xml";

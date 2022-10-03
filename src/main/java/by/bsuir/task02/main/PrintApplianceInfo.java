@@ -4,6 +4,9 @@ import main.java.by.bsuir.task02.entity.Appliance;
 
 import java.util.List;
 
+/**
+ * Print Appliance
+ */
 public class PrintApplianceInfo {
     public static void print(List<Appliance> appliances) {
         for (Appliance appliance : appliances) {
