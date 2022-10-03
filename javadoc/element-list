@@ -1,0 +1,9 @@
+main.java.by.bsuir.task02.dao
+main.java.by.bsuir.task02.dao.impl
+main.java.by.bsuir.task02.entity
+main.java.by.bsuir.task02.entity.criteria
+main.java.by.bsuir.task02.entity.enums
+main.java.by.bsuir.task02.main
+main.java.by.bsuir.task02.service
+main.java.by.bsuir.task02.service.impl
+main.java.by.bsuir.task02.service.validation
